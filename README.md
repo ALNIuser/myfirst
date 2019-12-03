@@ -1,0 +1,3 @@
+# myfirst
+
+Fast start django
