@@ -3,4 +3,9 @@
 Fast start django
 
 
-# With starting server enter: python manage.py runserver with terminal
+# 
+### 
+# { There starting 
+#     server, enter: 
+#     'python manage.py runserver'
+#    
