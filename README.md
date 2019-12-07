@@ -7,5 +7,5 @@ Fast start django
 ### 
 # { There starting 
 #     server, enter: 
-#     'python manage.py runserver'
+#     'python manage.py runserver' }
 #    
