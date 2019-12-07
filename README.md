@@ -1,11 +1,11 @@
-# myfirst
+## myfirst
 
-Fast start django
+######Fast start django
 
 
 # 
 ### 
-# { There starting 
-#     server, enter: 
-#     'python manage.py runserver' }
+## { There starting 
+##    server, enter: 
+##     'python manage.py runserver' }
 #    
